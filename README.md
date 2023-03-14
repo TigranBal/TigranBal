@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tigran!</h1>
 <h3 align="center">Why I love QA? Because it makes things right :)</h3>
 
-![QA](https://github.com/TigranBal/TigranBal/blob/main/QA_animation.gif)
+__![QA](https://github.com/TigranBal/TigranBal/blob/main/QA_animation.gif)__
 
 
 
